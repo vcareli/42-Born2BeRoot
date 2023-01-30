@@ -1,7 +1,7 @@
 # 42Course - Born2BeRoot
 
-## Instalacao
-Video* (https://youtu.be/2w-2MX5QrQw).
+## Instalacao da VM com Debian:
+Video* ().
 
 ## *sudo*
 
