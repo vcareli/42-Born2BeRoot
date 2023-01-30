@@ -39,10 +39,10 @@ $ sudo apt update
 ```
 $ sudo vi /etc/sudoers.d/<filename>
 ```
-ou alternativamente:
-```
-$ sudo vi /etc/sudoers
-```
+>ou alternativamente:
+>```
+>$ sudo vi /etc/sudoers
+>```
 
 Mudando arquivo sudores:
 1. Tentativas de senha:
@@ -139,9 +139,9 @@ Para fechar SSH.
 $ logout
 ```
 >ou...
-```
->$ exit
-```
+>```
+>>$ exit
+>```
 
 ## Gerenciamento de Senhas fortes
 
