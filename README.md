@@ -236,3 +236,18 @@ Checar as tarefas agendadas:
 ```
 $ sudo crontab -u root -l
 ```
+
+### Links para estudos:
+https://www.vivaolinux.com.br/artigo/Instalacao-e-Configuracao-de-Servidor-SSH-no-Debian
+https://www.edivaldobrito.com.br/como-ativar-o-sudo-no-debian/
+https://brasilcloud.com.br/tutoriais/como-alterar-a-porta-de-acesso-ssh-no-linux/
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-9-pt
+http://www.bosontreinamentos.com.br/linux-ubuntu/20-configurar-firewall-ufw-no-ubuntu-linux-parte-1/
+https://itigic.com/pt/how-to-configure-a-strong-password-policy-in-debian/
+https://pt.linux-console.net/?p=1754#gsc.tab=0
+https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-pt
+https://dev.to/womakerscode/tutorial-linux-terminal-verificando-informacoes-do-sistema-5h3
+https://www.youtube.com/watch?v=pwCKvMIJNjE
+https://www.youtube.com/watch?v=GGTbXq1FUI0
+https://www.youtube.com/watch?v=PrVZVKxqHUc
+https://www.youtube.com/watch?v=OZ1k0F3yJbo
